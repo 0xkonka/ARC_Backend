@@ -1,4 +1,4 @@
-# NodeJS Typescript Fastify Template
+# Node Typescript Fastify Template
 
 > Required NodeJS@^14.0
 
